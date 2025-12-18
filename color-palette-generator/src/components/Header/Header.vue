@@ -6,7 +6,7 @@
         <div class="title__text">palette lab</div>
 
         <nav class="title__nav desktop-nav">
-          <router-link to="/palette">palette</router-link>
+          <router-link to="/">palette</router-link>
         </nav>
 
         <div class="nav-dropdown mobile-dropdown" ref="navRoot">

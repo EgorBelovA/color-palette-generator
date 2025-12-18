@@ -3,7 +3,7 @@ import PalettePage from '../views/PalettePage.vue';
 
 const routes = [
   {
-    path: '/palette',
+    path: '/',
     name: 'PalettePage',
     component: PalettePage,
   },
